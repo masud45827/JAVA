@@ -10,8 +10,8 @@ public class JavaApplication24 {
     public static void main(String[] args) {
          A ob=new A("Masud Ali","18CSE027",21);
          System.out.println("Name = "+ob.name);
-           System.out.println("Name = "+ob.age);
-             System.out.println("Name = "+ob.id);
+           System.out.println("age = "+ob.age);
+             System.out.println("id = "+ob.id);
          
     }
     
