@@ -10,8 +10,8 @@ public class JavaApplication24 {
          ob.id="18CSE027";
          ob.name="Masud Ali";
          System.out.println("Name = "+ob.name);
-           System.out.println("Name = "+ob.age);
-             System.out.println("Name = "+ob.id);
+           System.out.println("age = "+ob.age);
+             System.out.println("id = "+ob.id);
          
     }
     
